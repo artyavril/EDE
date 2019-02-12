@@ -1,2 +1,5 @@
 # EDE
 Entorns de Desenvolupament
+
+# Exercici per a l'alumne 
+Fer un pull request contra aquest repositori canviant la línia que conté el vostre nom afegint algun missatge al final.
